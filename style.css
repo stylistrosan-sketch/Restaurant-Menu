@@ -168,6 +168,11 @@ body {
 .menu-item:nth-child(3) { animation-delay: 0.15s; }
 .menu-item:nth-child(4) { animation-delay: 0.2s; }
 .menu-item:nth-child(5) { animation-delay: 0.25s; }
+.menu-item:nth-child(6) { animation-delay: 0.3s; }
+.menu-item:nth-child(7) { animation-delay: 0.35s; }
+.menu-item:nth-child(8) { animation-delay: 0.4s; }
+.menu-item:nth-child(9) { animation-delay: 0.45s; }
+.menu-item:nth-child(10) { animation-delay: 0.5s; }
 
 /* Responsive */
 @media (max-width: 400px) {
